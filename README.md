@@ -16,6 +16,8 @@ A robust, SOLID-principle-based inventory system for Unity games featuring drag-
 
 ## 🛠️ Dependencies
 
+https://github.com/user-attachments/assets/dfa65463-711f-4976-9297-323d5d0a7070
+
 ### Unity Version
 - **Unity 2022.3 LTS** or higher
 
